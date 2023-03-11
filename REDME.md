@@ -2,7 +2,9 @@ Instalar dependencias
 
 npm i
 
-corerr el proyecto npm start
+corerr el proyecto
+
+npm start
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/48172198/224471588-97a32870-95ed-4263-ab51-7cdda46f2d0b.png">
 
